@@ -3,3 +3,5 @@ We are docked in Spacestation, waiting for slingshot to mars
 We have landed successfully on mars, it is strangely orange
 The rover is going crazy on mars
 Rover is scooping soil from the planet
+Adding new notes
+
